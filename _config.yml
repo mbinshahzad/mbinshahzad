@@ -1,6 +1,6 @@
 # main text of home
 title: Muhammad Bin Shahzad
-bio: Cybersecurity Prodigy | Hall of Fame Inductee | TEDx Speaker | UN Youth Ambassador | 25 Under 25
+bio: Cybersecurity Prodigy | TEDx Speaker | UN Youth Ambassador | 25 Under 25
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -44,7 +44,7 @@ email: mbinshahz@gmail.com
 authors:
   johndoe:
     name: Muhammad Bin Shahzad
-    bio: Cybersecurity Prodigy | Hall of Fame Inductee | TEDx Speaker | UN Youth Ambassador | 25 Under 25
+    bio: Cybersecurity Prodigy | TEDx Speaker | UN Youth Ambassador | 25 Under 25
     external-image: true
     picture: https://media.licdn.com/dms/image/D4D03AQFe01Tz3kYRqw/profile-displayphoto-shrink_200_200/0/1702796559551?e=1709164800&v=beta&t=Yh4RR8BmlGJRIjlNBCgAr1Lbg6emixfvH6Bim6YaSVI
     twitter: mbinshahzad
