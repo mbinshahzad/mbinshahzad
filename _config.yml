@@ -12,7 +12,7 @@ picture: https://media.licdn.com/dms/image/D4D03AQFe01Tz3kYRqw/profile-displayph
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -36,7 +36,7 @@ permalink: /:title/
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: mbinshahzad
-instagram: mbinshahz
+#instagram: mbinshahz
 linkedin: mbinshahzad
 github: mbinshahzad
 email: mbinshahz@gmail.com
