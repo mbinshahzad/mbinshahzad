@@ -3,8 +3,9 @@ layout: post
 published: true
 hidden: false
 title: Safeguarding 500k Academic Futures - Detailed Writeup
-date: 2024-06-11 00:00:00 +0000
+date: 2024-06-12 00:00:00 +0000
 category: blog
+tags: [edtech, edsec, writeups, account-takeover]
 ---
 ![EdSec: Safeguarding 500k Academic Futures](/assets/images/EdSec-Safeguarding-500k-Academic-Futures.png)
 
