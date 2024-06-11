@@ -25,9 +25,9 @@ layout: page
 
 <h2>Media</h2>
 <ul>
-	<li><a href="http://propakistani.pk/2015/08/25/meet-pakistans-youngest-and-globally-renowned-ethical-hacker/">ProPakistani - Meet Pakistan's Youngest and Globally Renowned Ethical Hacker </li>
-	<li><a href="http://yumtoyikes.com/2016/07/05/pakistanis-made-proud-june-2016/">20 Pakistanis who made Pakistan proud globally in June 2016</li>
-	<li><a href="https://www.techjuice.pk/14-year-old-security-researcher-from-pakistan-listed-in-google-hall-of-fame/">#1 in Top-25 High Achievers of Pakistan</li>
+	<li><a href="http://propakistani.pk/2015/08/25/meet-pakistans-youngest-and-globally-renowned-ethical-hacker/">ProPakistani - Meet Pakistan's Youngest and Globally Renowned Ethical Hacker </a></li>
+	<li><a href="http://yumtoyikes.com/2016/07/05/pakistanis-made-proud-june-2016/">20 Pakistanis who made Pakistan proud globally in June 2016</a></li>
+	<li><a href="https://www.techjuice.pk/14-year-old-security-researcher-from-pakistan-listed-in-google-hall-of-fame/">#1 in Top-25 High Achievers of Pakistan</a></li>
 	<li><a href="http://pakwired.com/pakistani-security-researcher-listed-in-google-hall-of-fame/">PakWired - Proud moment for Pakistan as 14-year old Muhammed Shahzad enters in Google’s Hall of Fame</a></li>
 	<li><a href="http://tribune.com.pk/story/1133380/14-year-old-pakistani-hacker-made-googles-hall-fame/">Express Tribune - This 14-year-old Pakistani hacker made it to Google's hall of fame</a></li>
 	<li><a href="https://www.brecorder.com/news/307403">Business Recorder - 14 years old Pakistani made into Google’s Hall of Fame</a></li>
